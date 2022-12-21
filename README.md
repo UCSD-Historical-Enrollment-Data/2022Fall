@@ -1,7 +1,5 @@
 # Fall 2022 Enrollment Data: Undergraduate Courses
-Enrollment data for all undergraduate courses in Fall 2022. 
-
-I will start uploading data on **May 20, 2022**.
+Enrollment data for all undergraduate courses in Fall 2022 at UC San Diego
 
 ## Supported Courses
 | Course Level                   | Courses to be Tracked                               | Amount |
@@ -51,3 +49,8 @@ Thus, expect one full cycle (i.e., 1148 requests) to be completed in **574** sec
 
 ## Notices
 I do not have data for May 25, 2022, from approximately 4:20 AM to approximately 11:00 AM Pacific Time. The cause of this is due my login script encountering a fatal error when trying to log back into WebReg. This means that a lot of freshmen first pass enrollment data is unfortunately missing. 
+
+## Final Notes
+For more information about the project, including to ask any questions, please go to the [parent repository](https://github.com/ewang2002/UCSDHistEnrollData). 
+
+Do not create issues or pull requests in this repository; they will be ignored. 
