@@ -1,6 +1,9 @@
 # Fall 2022 Enrollment Data: Undergraduate Courses
 Enrollment data for all undergraduate courses in Fall 2022 at UC San Diego
 
+[Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/TOC.md)
+
+
 ## Supported Courses
 | Course Level                   | Courses to be Tracked                               | Amount |
 | ------------------------------ | --------------------------------------------------- | ------ |

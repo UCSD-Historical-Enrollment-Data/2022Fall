@@ -1,0 +1,9 @@
+# LTCS
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| LTCS 111 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/overall/LTCS%20111.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall/LTCS%20111.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall_wide/LTCS%20111.png) |  |
+| LTCS 119 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/overall/LTCS%20119.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall/LTCS%20119.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall_wide/LTCS%20119.png) |  |
+| LTCS 130 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/overall/LTCS%20130.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall/LTCS%20130.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall_wide/LTCS%20130.png) |  |
+| LTCS 165 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/overall/LTCS%20165.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall/LTCS%20165.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall_wide/LTCS%20165.png) |  |
+| LTCS 87 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/overall/LTCS%2087.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall/LTCS%2087.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall_wide/LTCS%2087.png) |  |

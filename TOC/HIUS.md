@@ -1,0 +1,9 @@
+# HIUS
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| HIUS 108B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/overall/HIUS%20108B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall/HIUS%20108B.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall_wide/HIUS%20108B.png) |  |
+| HIUS 112 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/overall/HIUS%20112.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall/HIUS%20112.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall_wide/HIUS%20112.png) |  |
+| HIUS 152A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/overall/HIUS%20152A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall/HIUS%20152A.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall_wide/HIUS%20152A.png) |  |
+| HIUS 155 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/overall/HIUS%20155.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall/HIUS%20155.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall_wide/HIUS%20155.png) |  |
+| HIUS 183 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/overall/HIUS%20183.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall/HIUS%20183.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall_wide/HIUS%20183.png) |  |

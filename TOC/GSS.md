@@ -1,0 +1,5 @@
+# GSS
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| GSS 20 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/overall/GSS%2020.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall/GSS%2020.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_overall_wide/GSS%2020.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/section/GSS%2020_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_section/GSS%2020_A.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_section_wide/GSS%2020_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2022Fall/blob/main/section/GSS%2020_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_section/GSS%2020_B.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2022Fall/main/plot_section_wide/GSS%2020_B.png) |
